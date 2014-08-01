@@ -1,7 +1,7 @@
 @Echo off
 
 REM
-REM Configuration
+REM Configuration test
 REM 
 REM set CONF_COMPILER=C:\WINDOWS\Microsoft.NET\Framework\v2.0.50727\csc.exe
 set CONF_COMPILER=C:\WINDOWS\Microsoft.NET\Framework\v3.5\csc.exe
